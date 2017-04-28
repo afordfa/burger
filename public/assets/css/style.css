@@ -1,7 +1,5 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+body {
+	background-color: #ffd951;
 }
 
 .label {
@@ -11,9 +9,56 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
 }
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.availableList {
+	margin-bottom: 2px;
+}
+
+.burgerRow {
+	margin-bottom: 10px;
+}
+
+.devourButton {
+	font-family: 'Special Elite', cursive;
+	position: absolute;
+	top: 0px;
+}
+
+.title {
+	text-align: center;
+	font-family: 'Slackey', cursive;
+	font-size: 48px;
+}
+
+
+.burgerImage {
+	display: block;
+	margin: 0 auto;
+	/*size: 5%;*/
+}
+
+.sectionTitle {
+	text-align: center;
+	font-family: 'Special Elite', cursive;
+	margin-bottom: 20px;
+}
+
+.burgerList {
+	font-family: 'Amatica SC', cursive;
+	font-size: 22px;
+	font-weight: bold;
+}
+.addBurgerButton {
+	display: block;
+	margin: 0 auto;
+	font-family: 'Special Elite', cursive;
+}
+
+.addBurgerLabel {
+	font-family: 'Special Elite', cursive;
 }
